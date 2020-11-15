@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34336d0a-8dcc-44a0-8dcd-cde64e59438b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1foNWUupnksRvNytW3ataZzheAR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\2020-08-08-opencv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.shape_match (1)">
+    <configuration name="object_mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-08-opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pra-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pra-1/object_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-08-opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-08-opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pra-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pra-1/project_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shape_match (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-08-opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pra-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pra-1/shape_match.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shape_match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-08-opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shape_match.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shape_match (1)" />
+        <item itemvalue="Python.shape_match" />
+        <item itemvalue="Python.project_test" />
+        <item itemvalue="Python.project_test (1)" />
+        <item itemvalue="Python.object_mask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34336d0a-8dcc-44a0-8dcd-cde64e59438b" name="Default Changelist" comment="" />
+      <created>1596880516065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596880516065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1199" y="302" key="FileChooserDialogImpl" timestamp="1597474812216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1199" y="302" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597474812216" />
+    <state width="1313" height="237" key="GridCell.Tab.0.bottom" timestamp="1597474813505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1313" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597474813505" />
+    <state width="1313" height="237" key="GridCell.Tab.0.center" timestamp="1597474813505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1313" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597474813505" />
+    <state width="1313" height="237" key="GridCell.Tab.0.left" timestamp="1597474813504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1313" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597474813504" />
+    <state width="1313" height="237" key="GridCell.Tab.0.right" timestamp="1597474813505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1313" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597474813505" />
+    <state x="831" y="184" key="SettingsEditor" timestamp="1597111399176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597111399176" />
+    <state x="727" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1597456934297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597456934297" />
+    <state x="703" y="91" width="1147" height="976" key="dock-window-1" timestamp="1597990592717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="91" width="1147" height="976" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1597990592717" />
+    <state x="-16" y="52" width="1072" height="790" key="dock-window-10" timestamp="1596956571676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-16" y="52" width="1072" height="790" key="dock-window-10/0.0.1920.1040@0.0.1920.1040" timestamp="1596956571676" />
+    <state x="23" y="75" width="1066" height="809" key="dock-window-11" timestamp="1596956575783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="23" y="75" width="1066" height="809" key="dock-window-11/0.0.1920.1040@0.0.1920.1040" timestamp="1596956575783" />
+    <state x="-16" y="30" width="1055" height="894" key="dock-window-12" timestamp="1596956567599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-16" y="30" width="1055" height="894" key="dock-window-12/0.0.1920.1040@0.0.1920.1040" timestamp="1596956567599" />
+    <state x="0" y="40" width="1069" height="816" key="dock-window-13" timestamp="1596955898089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="40" width="1069" height="816" key="dock-window-13/0.0.1920.1040@0.0.1920.1040" timestamp="1596955898089" />
+    <state x="0" y="0" width="1041" height="898" key="dock-window-14" timestamp="1596956393002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1041" height="898" key="dock-window-14/0.0.1920.1040@0.0.1920.1040" timestamp="1596956393002" />
+    <state x="0" y="0" width="1032" height="842" key="dock-window-15" timestamp="1596965281662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1032" height="842" key="dock-window-15/0.0.1920.1040@0.0.1920.1040" timestamp="1596965281662" />
+    <state x="-20" y="55" width="1104" height="854" key="dock-window-16" timestamp="1596961438759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-20" y="55" width="1104" height="854" key="dock-window-16/0.0.1920.1040@0.0.1920.1040" timestamp="1596961438759" />
+    <state x="0" y="0" width="1020" height="843" key="dock-window-17" timestamp="1596963565077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1020" height="843" key="dock-window-17/0.0.1920.1040@0.0.1920.1040" timestamp="1596963565077" />
+    <state x="101" y="97" width="1130" height="885" key="dock-window-2" timestamp="1596941327312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="101" y="97" width="1130" height="885" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1596941327312" />
+    <state x="-15" y="8" width="1128" height="905" key="dock-window-3" timestamp="1596940836102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-15" y="8" width="1128" height="905" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1596940836102" />
+    <state x="0" y="0" width="1070" height="803" key="dock-window-4" timestamp="1596941558630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1070" height="803" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1596941558630" />
+    <state x="0" y="0" width="1070" height="871" key="dock-window-5" timestamp="1596942163544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1070" height="871" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1596942163544" />
+    <state x="-10" y="77" width="1070" height="819" key="dock-window-6" timestamp="1596944375438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-10" y="77" width="1070" height="819" key="dock-window-6/0.0.1920.1040@0.0.1920.1040" timestamp="1596944375438" />
+    <state x="-16" y="65" width="1128" height="900" key="dock-window-7" timestamp="1596952598916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-16" y="65" width="1128" height="900" key="dock-window-7/0.0.1920.1040@0.0.1920.1040" timestamp="1596952598916" />
+    <state x="5" y="23" width="1118" height="909" key="dock-window-8" timestamp="1596952336480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="5" y="23" width="1118" height="909" key="dock-window-8/0.0.1920.1040@0.0.1920.1040" timestamp="1596952336480" />
+    <state x="32" y="99" width="1057" height="742" key="dock-window-9" timestamp="1596952624511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="32" y="99" width="1057" height="742" key="dock-window-9/0.0.1920.1040@0.0.1920.1040" timestamp="1596952624511" />
+    <state x="985" y="256" width="672" height="678" key="search.everywhere.popup" timestamp="1597471456765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="256" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597471456765" />
+  </component>
+</project>
